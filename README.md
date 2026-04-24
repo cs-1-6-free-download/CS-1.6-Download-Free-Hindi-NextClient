@@ -7,10 +7,11 @@ Counter-Strike 1.6 फ्री डाउनलोड करें। NextClient
 
 **CS 1.6 फ्री डाउनलोड** करने के लिए सबसे भरोसेमंद जगह। NextClient लेटेस्ट Steam Build 8684 पर आधारित है।
 
-## 📥 डाउनलोड लिंक
-| सर्वर | फॉर्मेट | लिंक |
-| :--- | :--- | :--- |
-| **🚀 मुख्य सर्वर** | **इन्स्टॉलर .EXE** | [**अभी डाउनलोड करें**](https://mega.nz/file/DcERRTQT#IvP_26h51wbMHP9JV9CxoNop4ANkcOkbKcSxrU7BbKQ) |
+| Server | Format | Status | Download Link |
+| :--- | :--- | :--- | :--- |
+| **🚀 Main Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/OB8iCRBb#i_gaOjIzvNO0mq450hbWQsxEyk6UZ62miKh_dXxsOa8) |
+| **☁️ Mirror Server** | **.EXE Installer** | **Stable** | [**Download Now**](https://mega.nz/file/OB8iCRBb#i_gaOjIzvNO0mq450hbWQsxEyk6UZ62miKh_dXxsOa8) |
+| **📦 Portable** | **.ZIP Archive** | **Stable** | [**Download Now**](https://mega.nz/file/SZsQXBDS#Xn41yGpYSackntEVa2ETRJ8BHHIMOmvk-Ssq_jSWolw) |
 
 **खासियतें:**
 * **एंटी-हैक प्रोटेक्शन:** कोई भी सर्वर आपकी सेटिंग खराब नहीं कर पाएगा।
